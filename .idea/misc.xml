@@ -4,7 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/drawable/baseline_favorite_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/activity_dashboard.xml" value="0.15" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/activity_main.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/fragment_add.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/fragment_favt.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/fragment_homefragment.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/layout/fragment_search.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Social/app/src/main/res/xml/tabs.xml" value="0.1" />
       </map>
     </option>

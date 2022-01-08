@@ -6,4 +6,36 @@
     android:layout_height="match_parent"
     tools:context=".Dashboard">
 
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="678dp"
+        app:layout_constraintBottom_toTopOf="@+id/readable_Bottomnav"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp">
+
+    </FrameLayout>
+
+
+
+
+
+    <com.iammert.library.readablebottombar.ReadableBottomBar
+        android:id="@+id/readable_Bottomnav"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        app:rbb_backgroundColor="#2196F3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:rbb_tabs="@xml/tabs"
+        app:rbb_activeItemType="text"
+        app:rbb_textColor="#FF6347"
+        app:rbb_indicatorColor="#2196F3"/>
+
+
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
